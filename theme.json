@@ -369,11 +369,6 @@
 						"bottom": "0",
 						"left": "0"
 					}
-				},
-				"typography": {
-					"fontSize": "var(--font-size-lg)",
-					"fontStyle": "italic",
-					"lineHeight": "var(--line-height-lg)"
 				}
 			},
 			"core/code": {
