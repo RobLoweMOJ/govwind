@@ -369,7 +369,8 @@
 						"bottom": "0",
 						"left": "0"
 					}
-				}
+				},
+				"css": "& cite {margin-top:var(--spacing-6);}"
 			},
 			"core/code": {
 				"color": {
