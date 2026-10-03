@@ -8,6 +8,7 @@ on:
 
 permissions:
   contents: write
+  pull-requests: read # to title the release after the merged PR
 
 jobs:
   release:
